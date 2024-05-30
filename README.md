@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andriell
-- 👀 I’m interested in JS, React, Python
-- 🌱 I’m currently learning JS, Python
+- 👀 I’m interested in PHP, NODE, Python
+- 🌱 I’m currently learning PHP(OO), Python
 
 <!---
 Andriell99/Andriell99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
